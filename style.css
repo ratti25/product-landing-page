@@ -1,0 +1,60 @@
+#header{
+    display: flex;
+    flex-direction: row;
+}
+
+#header-img{
+    width: 200px;
+}
+.logo{
+    width: 60vw;
+}
+
+.listebi{
+    width: 40vw;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: none;
+    margin: none;
+
+}
+.dasawyisi{
+    padding-right: 10%;
+    
+}
+.h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.email{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1%;
+    
+}
+.button button{
+    width: 150px;
+    background-color: goldenrod;
+    cursor: pointer;
+}
+
+#features{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+   
+    
+}
+#video{
+    margin-top: 50px;
+    display: flex;
+  justify-content: center;
+}
